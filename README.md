@@ -12,5 +12,8 @@ pip install azureml-core
 pip install --upgrade azureml-core
 
 
+check to see if ACI is already registered
 
+az provider show -n Microsoft.ContainerInstance -o table
 
+![](../../../../var/folders/t5/x561_prd7zldyj0bw33m2p880000gn/T/TemporaryItems/NSIRD_screencaptureui_yibRnp/Screenshot 2022-02-09 at 1.46.31 AM.png)
