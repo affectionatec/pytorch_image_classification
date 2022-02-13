@@ -14,3 +14,9 @@ check to see if ACI is already registered
 
 `az provider show -n Microsoft.ContainerInstance -o table`
 
+create new workspace 
+
+create compute 
+
+    cpu - economical
+    gpu - expensive
